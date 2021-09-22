@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 ## [MY LINKTREE HAS SOME OF MY OTHER STUFF](https://linktr.ee/helloitstania) ##
 
-[![michael scott](./michael-scott.png)
+![michael scott](./michael-scott.png)
 
