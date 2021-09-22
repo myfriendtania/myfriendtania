@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ## [MY LINKTREE HAS SOME OF MY OTHER STUFF](https://linktr.ee/helloitstania) ##
 
-![THE LEGEND](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bardown.com%2Fkristaps-porzingis-upsets-hockey-fans-by-misattributing-famous-gretzky-quote-1.951195&psig=AOvVaw2uDxkpToUlnBzgWL7xDf8t&ust=1632408000802000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDtsOzpkvMCFQAAAAAdAAAAABAD)
+![THE LEGEND](file:///Users/tania_al_ghul/Desktop/michael-scott.png)
