@@ -9,7 +9,7 @@
 ## [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) ## 
 
 ------------------------------------
-<3
+
 ![michael scott](./michael-scott.png)
 
 -----------------------
