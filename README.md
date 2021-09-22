@@ -9,8 +9,9 @@ myfriendtania/myfriendtania is a ✨ special ✨ repository because its my `READ
 You can click the Preview link to take a look at your changes.
 --->
 
-
-## [MY LINKTREE HAS SOME OF MY OTHER STUFF](https://linktr.ee/helloitstania) ##
-
+------------------------------------
+## [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) ##
+------------------------------------
+<3
 ![michael scott](./michael-scott.png)
 
