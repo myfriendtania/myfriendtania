@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 ## [MY LINKTREE HAS SOME OF MY OTHER STUFF](https://linktr.ee/helloitstania) ##
 
-<a href=image_url><img src=file:///Users/tania_al_ghul/Desktop/michael-scott.png /> </a>
+![](/Users/tania_al_ghul/Desktop/michael-scott.png)
 
