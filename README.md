@@ -8,3 +8,9 @@
 myfriendtania/myfriendtania is a ✨ special ✨ repository because its my `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## MY LINKTREE HAS SOME OF MY OTHER STUFF ##
+[lCLICK HERE :)](https://linktr.ee/helloitstania)
+
+![THE LEGEND](michael-scott.png)
