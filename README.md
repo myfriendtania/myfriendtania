@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ## [MY LINKTREE HAS SOME OF MY OTHER STUFF](https://linktr.ee/helloitstania) ##
 
-![THE LEGEND](file:///Users/tania_al_ghul/Desktop/michael-scott.png)
+![:)](file:///Users/tania_al_ghul/Desktop/michael-scott.png)
