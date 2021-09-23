@@ -11,6 +11,7 @@
 ------------------------------------
 
 ![michael scott](./michael-scott.png)
+![cat_wink](./cat-wink.gif)
 
 -----------------------
 
