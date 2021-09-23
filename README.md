@@ -10,10 +10,12 @@
 
 ------------------------------------
 
-![michael scott](./michael-scott.png)
 ![cat_wink](./cat-wink.gif)
 
 -----------------------
+<!---COMMENTED OUT ITEMS --->
+
+<!--- ![michael scott](./michael-scott.png) --->
 
 <!---
 myfriendtania/myfriendtania is a ✨ special ✨ repository because its my `README.md` (this file) appears on your GitHub profile.
