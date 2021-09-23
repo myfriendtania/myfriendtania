@@ -11,6 +11,7 @@
 ------------------------------------
 
 ![michael scott](./michael-scott.png)
+![cat_wink](./file:///C:/Users/theta/OneDrive%20-%20Dallas%20College/Desktop/cat-wink.gif)
 
 -----------------------
 
