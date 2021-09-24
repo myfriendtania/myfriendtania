@@ -3,12 +3,10 @@
 </p>
 
 ## About meeee ##
-<p align="left">
 - Interested in living life like a G.
 - Currently learning coding, mastering the full art of riding a motorcycle and how to stay positive in hard situations 
 - Looking to collaborate on growing my brand and making a page for my video editing projects.
 - Reach me at ttorresbiz@gmail.com.
- </p>
 
 -----------------------
 ### [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) ### 
