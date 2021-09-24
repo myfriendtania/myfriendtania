@@ -10,11 +10,12 @@
 
 ------------------------------------
 
-![cat_wink](./cat-wink.gif)
-<img src="./cat-wink.gif" width="200" height="200">
+<img src="./cat-wink.gif" width="280" height="200">
 
 -----------------------
 <!---COMMENTED OUT ITEMS --->
+
+<!---- ![cat_wink](./cat-wink.gif) ---->
 
 <!--- ![michael scott](./michael-scott.png) --->
 
