@@ -10,7 +10,8 @@
 
 ------------------------------------
 
-![cat_wink](./cat-wink.gif) {: height="36px" width="36px"}
+![cat_wink](./cat-wink.gif)
+<img src="./cat-wink.gif" width="200" height="200">
 
 -----------------------
 <!---COMMENTED OUT ITEMS --->
