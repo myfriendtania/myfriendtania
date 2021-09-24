@@ -3,7 +3,7 @@
 </p>
 
 ## About meeee ##
-1. I’m interested in living life like a G.
+:octocat: I’m interested in living life like a G.
 2. I’m currently learning coding, mastering the full art of riding a motorcycle and how to stay positive in hard situations
 3. I’m looking to collaborate on growing my brand and making a page for my video editing projects. 
 4. Reach me at ttorresbiz@gmail.com.
