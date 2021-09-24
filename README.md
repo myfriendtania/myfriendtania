@@ -1,4 +1,4 @@
-![tania_name]()
+![tania_name](name-graphics-tania-882855.gif style=center)
 
 - I’m interested in living life like a G.
 - I’m currently learning coding, mastering the full art of riding a motorcycle and how to stay positive in hard situations
