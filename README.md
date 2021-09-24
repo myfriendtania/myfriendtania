@@ -3,7 +3,7 @@
 </p>
 
 ## About meeee ##
-<p align= "left">
+<p align="left">
 <img src="octocat-wave-dribbble.gif" width="20" height="20">
 I’m interested in living life like a G.
 <img src="octocat-wave-dribbble.gif" width="20" height="20"> 
