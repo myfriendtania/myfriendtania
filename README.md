@@ -4,7 +4,7 @@
 
 ## About meeee ##
 <img src="octocat-wave-dribbble.gif
-" width="16" height="16"> I’m interested in living life like a G.
+" width="20" height="20"> I’m interested in living life like a G.
 <img src="octocat-wave-dribbble.gif
 " width="16" height="16"> I’m currently learning coding, mastering the full art of riding a motorcycle and how to stay positive in hard situations
 <img src="octocat-wave-dribbble.gif
