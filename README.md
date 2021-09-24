@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="200" src="name-graphics-tania-882855.gif">
+  <img width="380" height="250" src="name-graphics-tania-882855.gif">
 </p>
 
 - I’m interested in living life like a G.
