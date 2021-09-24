@@ -12,7 +12,7 @@
 ### [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) ### 
 -----------------------
 
-<img src="./cat-wink.gif" width="280" height="200"> <img src="./michael-scott.png" width="380" height="200"> <img src="giphy.gif" width="280" height="200">
+<img src="./cat-wink.gif" width="280" height="200"> <img src="./michael-scott.png" width="300" height="200"> <img src="giphy.gif" width="240" height="200">
 
 
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
