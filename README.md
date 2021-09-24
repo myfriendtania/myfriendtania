@@ -4,11 +4,7 @@
 - I’m looking to collaborate on growing my brand and making a page for my video editing projects. Maybe open a PI business one day (It's easier said than done) 
 - How to reach me ttorresbiz@gmail.com.
 
-------------------------------------
-
-## [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) ## 
-
-------------------------------------
+### [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) ### 
 
 <img src="./cat-wink.gif" width="280" height="200">
 
