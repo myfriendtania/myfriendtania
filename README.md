@@ -3,18 +3,20 @@
 </p>
 
 ## About meeee ##
-:octocat: I’m interested in living life like a G.
-2. I’m currently learning coding, mastering the full art of riding a motorcycle and how to stay positive in hard situations
-3. I’m looking to collaborate on growing my brand and making a page for my video editing projects. 
-4. Reach me at ttorresbiz@gmail.com.
+<img src="octocat-wave-dribbble.gif
+" width="16" height="16"> I’m interested in living life like a G.
+<img src="octocat-wave-dribbble.gif
+" width="16" height="16"> I’m currently learning coding, mastering the full art of riding a motorcycle and how to stay positive in hard situations
+<img src="octocat-wave-dribbble.gif
+" width="16" height="16"> I’m looking to collaborate on growing my brand and making a page for my video editing projects. 
+<img src="octocat-wave-dribbble.gif
+" width="16" height="16"> Reach me at ttorresbiz@gmail.com.
 
 -----------------------
 ### [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) ### 
 -----------------------
 
 <img src="./cat-wink.gif" width="280" height="200"> <img src="./michael-scott.png" width="380" height="200"> <img src="giphy.gif" width="280" height="200">
-
-
 
 
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
