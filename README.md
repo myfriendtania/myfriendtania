@@ -4,17 +4,12 @@
 
 <!---------------------------------------------------------->
 
-## <p align="center"> Welcome to my GitHub page </p> ##
+## <p align="center" style="color: pink;"> Welcome to my  <span style="color: red;">Github </span> page! </p>
+ 
 - I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it would've been a career-changer.
 - My partner is [Daniel JS](danieljs.io), and he's motivated me to grow and truly embrace the world of code.
 - I attended EL Centro Community College to receive and Associate's in Applied Science in Software Development.
-- Looking to collaborate on growing my brand and hoping to help others with creating their websites ✨
-
-
-<p align="center"> 
-  <a href="mailto:ttorresbiz@gmail.com?"> <img src="https://img.shields.io/badge/email%20me-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
+- Looking to collaborate on growing my brand and hoping to help others with creating their websites <span style= "color:red">&hearts;</span>
 
 -------------------------------------
 
@@ -25,14 +20,26 @@ Languages, Tools and Skills </p>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?logo=java.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%20sharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%20+%20+-1572B6?style=for-the-badge&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20premiere%20pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/affinity%20photo-7E4DD2?style=for-the-badge&logo=affinity%20photo&logoColor=white"/>
 <img src="https://img.shields.io/badge/affinity%20designer-1B72BE?style=for-the-badge&logo=affinity%20designer&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/spark%20ar-FF5C83?style=for-the-badge&logo=spark%20ar&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/streamlabs%20obs-77E8B9?style=for-the-badge&logo=streamlabs%20obs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anchor-5000B9?style=for-the-badge&logo=anchor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft%20office&logoColor=white"/>
+  
 </p>
 
 -------------------------------------
@@ -41,10 +48,13 @@ Languages, Tools and Skills </p>
 <a href="https://www.linkedin.com/in/thetalentedleo">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> | <a href="https://www.instagram.com/myfriendtania">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> | <a href="https://www.feelyclub.com">
-<img src="https://img.shields.io/badge/feely%20club-green?style=for-the-badge&logo=l=&logoColor=white" />
+<img src="https://img.shields.io/badge/feely%20club-green?style=for-the-badge&logo=l=&logoColor=white" /> | <a href="mailto:ttorresbiz@gmail.com?"> <img src="https://img.shields.io/badge/email%20me-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> | <a href="https://linktr.ee/helloitstania">
+<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+
 </p>
 
 <p align="center"> <img src="./cat-wink.gif" width="280" height="200"> </p>
+  
 
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
 
