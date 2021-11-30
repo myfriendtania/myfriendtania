@@ -7,7 +7,8 @@
 - My partner is [Daniel JS](danieljs.io) and he's motivated me to grow and truly embrace the world of code.
 - I attended EL Centro Community College to receive and Associate's in Applied Science in Software Development.
 - Looking to collaborate on growing my brand and hoping to help others with creating their websites ✨
-- You can reach me at <a href="mailto:ttorresbiz@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>for any biz inquiries.
+
+<a href="mailto:ttorresbiz@gmail.com?"> <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 -----------------------
 ### [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) ### 
