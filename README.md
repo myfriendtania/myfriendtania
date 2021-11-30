@@ -13,14 +13,13 @@
 <p align="center"> <img src="./cat-wink.gif" width="280" height="200"> </p>
 
 <p align="center"> 
-  <a href="mailto:ttorresbiz@gmail.com?"> <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-</p>
+  <a href="mailto:ttorresbiz@gmail.com?"> <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white&style=plastic"></a></p>
 
 <p align="center"> 
 Languages I've worked with: </p>
   
 <p align="center">
-https://img.shields.io/badge/-html%20Router
+<a href="https://img.shields.io/badge/-HTML-GREEN?logo=html.svg?&style=for-the-badge&logo=html&logoColor=white&style=plastic"></a></p>
 - CSS
 - Java
 - C#
