@@ -19,7 +19,7 @@
 Languages I've worked with: </p>
   
 <p align="center">
-<a href="https://img.shields.io/badge/-HTML-GREEN?logo=html.svg?&style=for-the-badge&logo=html&logoColor=white"></a></p>
+<img src= "https://img.shields.io/badge/-HTML-green?logo=html.svg?&style=for-the-badge&logo=html&logoColor=white"></a></p>
 - CSS
 - Java
 - C#
