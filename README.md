@@ -8,19 +8,18 @@
 - I attended EL Centro Community College to receive and Associate's in Applied Science in Software Development.
 - Looking to collaborate on growing my brand and hoping to help others with creating their websites ✨
 
+
 <a href="mailto:ttorresbiz@gmail.com?"> <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-<a href="https://feelyclub.com"> <img src="https://img.shields.io/badge/-feelyclub-%23DD0031.svg?&style=for-the-badge&club-green"</a>
 
 -----------------------
-### [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) ### 
+### <p align="center"> [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) </p> ### 
 -----------------------
 
-<img src="./cat-wink.gif" width="280" height="200">
+<p align="center"> <img src="./cat-wink.gif" width="280" height="200"> </p>
 
 
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
 
-<!---- ![cat_wink](./cat-wink.gif) ---->
 <!---
 myfriendtania/myfriendtania is a ✨ special ✨ repository because its my `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
