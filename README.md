@@ -4,7 +4,7 @@
 
 <!---------------------------------------------------------->
 
-## <h1 align="center" style="color: pink;"> Welcome to my  <span style="color: red;">Github </span> page! </h1>
+### <h1 align="center" style="color: pink;"> Welcome to my <span style="color: red;">Github </span> page! </h1>
  
 - I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it would've been a career-changer.
 - My partner is [Daniel JS](danieljs.io), and he's motivated me to grow and truly embrace the world of code.
@@ -15,7 +15,7 @@
 
 
  <p align="center"> 
-## Languages, Tools and Skills </p> ##
+Languages, Tools and Skills </p>
   
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -43,7 +43,9 @@
 </p>
 
 -------------------------------------
-## <p align="center"> Get in touch! </p> ##
+
+<p align="center"> Get in touch! </p> 
+
 <p align="center"> 
 <a href="https://www.linkedin.com/in/thetalentedleo">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> | <a href="https://www.instagram.com/myfriendtania">
@@ -54,7 +56,6 @@
 </p>
 
 <p align="center"> <img src="./cat-wink.gif" width="280" height="200"> </p>
-  
   
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
 
