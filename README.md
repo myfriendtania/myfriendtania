@@ -26,6 +26,7 @@ Languages, Tools and Skills </p>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20premiere%20pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobe%20xd-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/affinity%20photo-7E4DD2?style=for-the-badge&logo=affinity%20photo&logoColor=white"/>
 <img src="https://img.shields.io/badge/affinity%20designer-1B72BE?style=for-the-badge&logo=affinity%20designer&logoColor=white"/>
