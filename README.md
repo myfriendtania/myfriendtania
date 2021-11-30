@@ -6,7 +6,7 @@
 
 ## <p align="center"> Welcome to my GitHub page </p> ##
 - I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it would've been a career-changer.
-- My partner is [Daniel JS](danieljs.io) and he's motivated me to grow and truly embrace the world of code.
+- My partner is [Daniel JS](danieljs.io), and he's motivated me to grow and truly embrace the world of code.
 - I attended EL Centro Community College to receive and Associate's in Applied Science in Software Development.
 - Looking to collaborate on growing my brand and hoping to help others with creating their websites ✨
 
@@ -17,8 +17,9 @@
 </p>
 
 <p align="center"> 
-Languages I've worked with:
+Languages I've worked with: </p>
   
+<p align="center">
 - HTML
 - CSS
 - Java
@@ -27,7 +28,7 @@ Languages I've worked with:
   </p>
 
 
-### <p align="center"> [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [STORE](https://feelyclub.com) </p> ### 
+## <p align="center"> [LINKTREE](https://linktr.ee/helloitstania) | [INSTY](https://instagram.com/myfriendtania) | [SHOP FEELY CLUB](https://feelyclub.com) </p> ### 
 
 
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
