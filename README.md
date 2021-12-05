@@ -14,7 +14,7 @@
 -------------------------------------
 
 
- <p align="center"> 
+<p align="center"> 
 Languages, Tools and Skills </p>
   
 <p align="center">
@@ -56,7 +56,7 @@ Languages, Tools and Skills </p>
 
 </p>
 
-<p align="center"> <img src="./cat-wink.gif" width="280" height="200"> </p>
+<p align="center"> <img src="./reactionsgif.gif" width="280" height="200"> </p>
   
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
 
