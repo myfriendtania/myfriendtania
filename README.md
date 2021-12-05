@@ -56,7 +56,7 @@ Languages, Tools and Skills </p>
 
 </p>
 
-<p align="center"> <img src="./reactionsgif.gif" width="280" height="200"> </p>
+<p align="center"> <img src="./reactionsgif.gif" width="230" height="230"> </p>
   
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
 
