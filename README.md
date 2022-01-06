@@ -52,8 +52,6 @@ Languages, Tools and Skills </p>
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> | <a href="https://www.instagram.com/myfriendtania">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> | <a href="https://www.feelyclub.com">
 <img src="https://img.shields.io/badge/feely%20club-green?style=for-the-badge&logo=l=&logoColor=white" /> | <a href="mailto:ttorresbiz@gmail.com?"> <img src="https://img.shields.io/badge/email%20me-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> | <a href="https://linktr.ee/helloitstania">
-<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
-
 </p>
 
 <p align="center"> <img src="./reactionsgif.gif" width="230" height="230"> </p>
