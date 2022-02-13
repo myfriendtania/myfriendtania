@@ -58,7 +58,8 @@ Languages, Tools and Skills </p>
 <p align="center"> <img src="./reactionsgif.gif" width="230" height="230"> </p>
  
   <p align="center">
- <img src="https://img.shields.io/badge/myfriendtania.com%20-pink?style=for-the-badge&logo=l=&logoColor=white" /> <a href="https://www.myfriendtania.com"></p>
+  <a href="https://www.myfriendtania.com"><img src="https://img.shields.io/badge/myfriendtania.com%20-pink?style=for-the-badge&logo=l=&logoColor=white">
+  </p>
 
 
 <p align="center">
