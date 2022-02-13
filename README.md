@@ -8,7 +8,7 @@
  
 - I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it's a career-changer.
 - My partner Daniel J. Scott, has motivated me to grow and truly embrace the world of code.
-- I attended EL Centro Community College to receive and Associate's in Applied Science in Software Development.
+- I attended El Centro Community College to receive and Associate's in Applied Science in Software Development.
 - Looking to collaborate on growing my brand and hoping to help others with creating their websites <span style= "color:red">&hearts;</span>
 
 -------------------------------------
@@ -55,7 +55,7 @@ Languages, Tools and Skills </p>
 </p>
 
 <p align="center"> <img src="./reactionsgif.gif" width="230" height="230"> </p>
-  
+  <p align="center">myfriendtania.com</p>
 
 <p align="center">
 <a href="https://github.com/myfriendtania">
