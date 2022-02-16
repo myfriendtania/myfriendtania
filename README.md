@@ -60,8 +60,9 @@ Languages, Tools and Skills </p>
   <p align="center">
   <a href="https://www.myfriendtania.com"><img src="https://img.shields.io/badge/myfriendtania.com%20-pink?style=for-the-badge&logo=l=&logoColor=white">
   </p>
-
-
+ 
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1AAGJA)
+    
 <p align="center">
 <a href="https://github.com/myfriendtania">
  <img src="https://github-readme-stats.vercel.app/api?username=myfriendtania&show_icons=true&hide=stars&hide_border=true" alt="GitHub Stats" />
