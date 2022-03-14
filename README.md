@@ -36,6 +36,9 @@ Languages, Tools and Skills </p>
 <img src="https://img.shields.io/badge/streamlabs%20obs-77E8B9?style=for-the-badge&logo=streamlabs%20obs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logo=kali%20linux&logoColor=white" alt="kali linux" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anchor-5000B9?style=for-the-badge&logo=anchor&logoColor=white"/>
@@ -50,7 +53,6 @@ Languages, Tools and Skills </p>
  <p align="center">
    <a href="https://www.linkedin.com/in/taniaatorres"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
    <a href="https://www.instagram.com/myfriendtania"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">     
-   <a href="https://www.feelyclub.com"><img src="https://img.shields.io/badge/feely%20club-green?style=for-the-badge&logo=&logoColor=white">     
    <a href="mailto:ttorresbiz@gmail.com?"><img src="https://img.shields.io/badge/email%20me-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white">
    </p>
 
