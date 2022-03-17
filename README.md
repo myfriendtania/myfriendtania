@@ -3,8 +3,6 @@
 </p>
 
 <!---------------------------------------------------------->
-
-### <h1 align="center" style="color: pink;"> Welcome to my <span style="color: red;">Github </span> page! </h1>
  
 - I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it's a career-changer.
 - My partner Daniel J. Scott, has motivated me to grow and truly embrace the world of code.
