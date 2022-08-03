@@ -27,6 +27,7 @@ Languages, Tools and Skills </p>
 <img src="https://img.shields.io/badge/adobe%20xd-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/affinity%20photo-7E4DD2?style=for-the-badge&logo=affinity%20photo&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/affinity%20designer-1B72BE?style=for-the-badge&logo=affinity%20designer&logoColor=white"/>
 <img src="https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/spark%20ar-FF5C83?style=for-the-badge&logo=spark%20ar&logoColor=white"/>
@@ -37,7 +38,6 @@ Languages, Tools and Skills </p>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logo=kali%20linux&logoColor=white" alt="kali linux" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anchor-5000B9?style=for-the-badge&logo=anchor&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft%20office&logoColor=white"/>
