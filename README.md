@@ -4,10 +4,10 @@
 
 <!---------------------------------------------------------->
  
-- I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it's a career-changer.
-- I have been motivated to grow and truly embrace the world of code.
-- I attended El Centro Community College to receive and Associate's in Applied Science in Software Development.
-- Looking to collaborate on growing my brand and hoping to help others with creating their websites <span style= "color:red">&hearts;</span>
+- I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it could be a career.
+- I have been motivated to grow and truly embrace the world of code by applying myself little by little.
+- I attended Dallas College to receive and Associates in Applied Science in Software Development.
+- Looking to collaborate on growing my brand and help others create their own little online real estate <span style= "color:red">&hearts;</span>
 
 -------------------------------------
 
