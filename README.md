@@ -21,6 +21,7 @@ Languages, Tools and Skills </p>
 <img src="https://img.shields.io/badge/c%20sharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20+%20+-1572B6?style=for-the-badge&logo=c++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E? I style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20premiere%20pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/>
