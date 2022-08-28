@@ -7,13 +7,6 @@
 </p>
 
 <p align="center">☕ <span style= "color:red">&hearts;</span> 💻</p>
-<!---------------------------------
- 
-- I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it's a career changer!
-- I have been motivated to grow and truly embrace the world of code by applying myself little by little.
-- I attended Dallas College to receive and Associates in Applied Science in Software Development.
-- Looking to collaborate on growing my brand and help others create their own little online real estate <span style= "color:red">&hearts;</span>
--------------------->
 
 -----------------------------------
 
@@ -75,17 +68,27 @@ Languages, Tools and Skills </p>
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myfriendtania&layout=compact&hide_border=true" alt="Language Stats" /></p>
 
----
+------------------------
 
 <div align='center'>
 
 ![](https://komarev.com/ghpvc/?username=myfriendtania&label=Profile+Views)
 
 </div>
---------
-<span style= "color:red">&hearts;</span>
+
+<p align="center"><span style= "color:red">&hearts;</span></p>
   
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
+
+
+<!----
+ 
+- I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it's a career changer!
+- I have been motivated to grow and truly embrace the world of code by applying myself little by little.
+- I attended Dallas College to receive and Associates in Applied Science in Software Development.
+- Looking to collaborate on growing my brand and help others create their own little online real estate <span style= "color:red">&hearts;</span>
+------>
+
 
 <!---
 myfriendtania/myfriendtania is a ✨ special ✨ repository because its my `README.md` (this file) appears on your GitHub profile.
