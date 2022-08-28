@@ -2,6 +2,8 @@
   <img width="280" height="150" src="name-graphics-tania-882855.gif">
 </p>
 
+
+MySpace is where I got my start! Changing the themes, adding unpausable music to friend's pages along with adding falling glitter! Coding is much more than a career, it's an escape and a source of relaxation! Let's build some crazy stuff together! <span style= "color:red">&hearts;</span>
 <!---------------------------------
  
 - I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it's a career changer!
