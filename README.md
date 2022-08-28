@@ -3,7 +3,9 @@
 </p>
 
 
-MySpace is where I got my start! Changing the themes, adding unpausable music to friend's pages along with adding falling glitter! Coding is much more than a career, it's an escape and a source of relaxation! Let's build some crazy stuff together! <span style= "color:red">&hearts;</span>
+<p align="center"> How did I get started coding? I was 15, had a bulky computer and having a MySpace profile was how! Changing the themes, adding unpausable music to friend's pages along with 3D falling glitter! Coding is much more than a career, it's an escape and a source of relaxation! Let's build some crazy stuff together! <span style= "color:red">&hearts;</span>
+</p>
+
 <!---------------------------------
  
 - I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it's a career changer!
@@ -12,6 +14,7 @@ MySpace is where I got my start! Changing the themes, adding unpausable music to
 - Looking to collaborate on growing my brand and help others create their own little online real estate <span style= "color:red">&hearts;</span>
 -------------------->
 
+-----------------------------------
 
 <p align="center"> 
 Languages, Tools and Skills </p>
