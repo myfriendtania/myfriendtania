@@ -2,14 +2,13 @@
   <img width="280" height="150" src="name-graphics-tania-882855.gif">
 </p>
 
-<!---------------------------------------------------------->
+<!---------------------------------
  
-- I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it could be a career.
+- I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it's a career changer!
 - I have been motivated to grow and truly embrace the world of code by applying myself little by little.
 - I attended Dallas College to receive and Associates in Applied Science in Software Development.
 - Looking to collaborate on growing my brand and help others create their own little online real estate <span style= "color:red">&hearts;</span>
-
--------------------------------------
+-------------------->
 
 
 <p align="center"> 
