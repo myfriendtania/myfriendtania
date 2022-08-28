@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280" height="150" src="name-graphics-tania-882855.gif">
+  <img width="280" height="170" src="name-graphics-tania-882855.gif">
 </p>
 
 
