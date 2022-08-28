@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center"> How did I get started coding? I was 15, had a bulky computer and having a MySpace profile was how! Changing the themes, adding unpausable music to friend's pages along with 3D falling glitter! Coding is much more than a career, it's an escape and a source of relaxation! Let's build some crazy stuff together! <span style= "color:red">&hearts;</span>
+<p align="center"> How did I get started coding? I was 15, had a bulky computer and having a MySpace profile was how! Changing the themes, adding unpausable music to friend's pages along with 3D falling glitter! Coding is much more than a career, it's an escape and a source of relaxation! Let's build some crazy stuff together! ☕ 💻
 </p>
 
 <!---------------------------------
@@ -81,6 +81,8 @@ Languages, Tools and Skills </p>
 ![](https://komarev.com/ghpvc/?username=myfriendtania&label=Profile+Views)
 
 </div>
+--------
+<span style= "color:red">&hearts;</span>
   
 <!----------------------------------------- COMMENTED OUT ITEMS ------------------------------------->
 
