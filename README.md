@@ -3,7 +3,8 @@
 </p>
 
 
-<p align="center"> How did I get started coding? I was 15, had a bulky computer and having a MySpace profile was how! Changing the themes, adding unpausable music to friend's pages along with 3D falling glitter! Coding is much more than a career, it's an escape and a source of relaxation! Let's build some crazy stuff together! ☕ 💻
+<p align="center"> How did I get started coding? I was 15, had a bulky computer and having a MySpace profile was how! Changing the themes, adding unpausable music to friend's pages along with 3D falling glitter! Coding is much more than a career, it's an escape and a source of relaxation! Let's build some crazy stuff together! 
+☕ 💻
 </p>
 
 <!---------------------------------
