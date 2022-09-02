@@ -65,6 +65,7 @@ Languages, Tools and Skills </p>
 <a href="https://github.com/myfriendtania">
  <img src="https://github-readme-stats.vercel.app/api?username=myfriendtania&show_icons=true&hide=stars&hide_border=true" alt="GitHub Stats" />
   </a></p>
+  
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myfriendtania&layout=compact&hide_border=true" alt="Language Stats" /></p>
 
