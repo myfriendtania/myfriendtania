@@ -53,7 +53,7 @@ Languages, Tools and Skills </p>
    <a href="mailto:ttorresbiz@gmail.com?"><img src="https://img.shields.io/badge/email%20me-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
    </p>
 
-<iframe width="460" height="215" src="https://www.youtube.com/embed/Bo9h4DLjPEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="460" height="215" src="https://www.youtube.com/embed/Bo9h4DLjPEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
  
   <p align="center">
