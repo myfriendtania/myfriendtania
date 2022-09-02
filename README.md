@@ -52,6 +52,7 @@ Languages, Tools and Skills </p>
  <p align="center">
    <a href="https://www.linkedin.com/in/taniaatorres"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://www.instagram.com/myfriendtania"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCmjTgrB-tqOV30uTD7lf11w"><img src="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="mailto:ttorresbiz@gmail.com?"><img src="https://img.shields.io/badge/email%20me-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
    </p>
 
