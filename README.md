@@ -53,8 +53,8 @@ Languages, Tools and Skills </p>
    <a href="mailto:ttorresbiz@gmail.com?"><img src="https://img.shields.io/badge/email%20me-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
    </p>
 
+<iframe width="460" height="215" src="https://www.youtube.com/embed/Bo9h4DLjPEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p align="center"> <img src="./reactionsgif.gif" width="230" height="230"> </p>
  
   <p align="center">
   <a href="https://www.myfriendtania.com"><img src="https://img.shields.io/badge/myfriendtania.com%20-pink?style=for-the-badge&logo=l=&logoColor=white">
@@ -82,6 +82,8 @@ Languages, Tools and Skills </p>
 
 
 <!----
+<p align="center"> <img src="./reactionsgif.gif" width="230" height="230"> </p>
+
  
 - I started coding as a hobby when I was 15, changing up my friends' mySpace pages. Didn't realise it's a career changer!
 - I have been motivated to grow and truly embrace the world of code by applying myself little by little.
