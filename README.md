@@ -40,7 +40,7 @@ Languages, Tools and Skills </p>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anchor-5000B9?style=for-the-badge&logo=anchor&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft%20office&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=chat%20gpt&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=chatgpt%20&logoColor=white"/>
 
   
 </p>
